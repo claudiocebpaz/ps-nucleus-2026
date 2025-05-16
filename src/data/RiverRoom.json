@@ -1,0 +1,80 @@
+{
+  "text": {
+    "price": "$3,000 / Person",
+    "title": "River Suite",
+    "subtitle": "Hear the sounds of the river at night",
+    "features": [
+      {
+        "name": "Two Double Beds with Mosquito Netting",
+        "description": "Enjoy two spacious double beds (140 cm x 200 cm) equipped with mosquito netting for a peaceful sleep.",
+        "icon": "Squares2X2Icon"
+      },
+      {
+        "name": "Outdoor Extra Large Bathtub",
+        "description": "Relax in an outdoor extra large bathtub surrounded by a river and jungle atmosphere.",
+        "icon": "HomeModernIcon"
+      },
+      {
+        "name": "Climate-Controlled Bathroom",
+        "description": "A modern bathroom with climate control and a separate shower for a refreshing experience.",
+        "icon": "Cog6ToothIcon"
+      },
+      {
+        "name": "Wood & LED Light Mandala",
+        "description": "A striking wood and LED light mandala that enhances the ambiance.",
+        "icon": "SparklesIcon"
+      },
+      {
+        "name": "Built-in Wardrobes",
+        "description": "Two built-in wardrobes provide ample storage space.",
+        "icon": "CubeIcon"
+      },
+      {
+        "name": "Air Conditioning & Dehumidifier",
+        "description": "Experience optimal comfort with efficient air conditioning and a dehumidifier.",
+        "icon": "Cog6ToothIcon"
+      },
+      {
+        "name": "Smart Entertainment & Security",
+        "description": "Features a portable waterproof Sonos speaker, charging station with cords, and a security box.",
+        "icon": "SpeakerWaveIcon"
+      },
+      {
+        "name": "Black-Out Curtains",
+        "description": "High-quality black-out curtains ensure complete privacy and darkness.",
+        "icon": "EyeSlashIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/4gw7uBaLibTB06cbIW",
+        "soldout": false,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/6oEbKRg5CcXF8CI5ko",
+        "soldout": false,
+        "oneSpotLeft": true
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/4gw7uBaLibTB06cbIW"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/6oEbKRg5CcXF8CI5ko"
+      }
+    }
+  },
+  "imagesKey": "river"
+}

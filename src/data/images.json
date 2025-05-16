@@ -1,0 +1,396 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/01.jpg",
+      "alt": "About Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/02.jpg",
+      "alt": "About Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/03.jpg",
+      "alt": "About Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/04.jpg",
+      "alt": "About Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/05.jpg",
+      "alt": "About Image 5"
+    },
+    {
+      "id": 6,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/06.jpg",
+      "alt": "About Image 6"
+    },
+    {
+      "id": 7,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/07.jpg",
+      "alt": "About Image 7"
+    },
+    {
+      "id": 8,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/08.jpg",
+      "alt": "About Image 8"
+    },
+    {
+      "id": 9,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/09.jpg",
+      "alt": "About Image 9"
+    },
+    {
+      "id": 10,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/about/10.jpg",
+      "alt": "About Image 10"
+    }
+  ],
+  "sanctuary": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/sanctuary/01.png",
+      "alt": "Sanctuary Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/sanctuary/02.png",
+      "alt": "Sanctuary Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/sanctuary/03.png",
+      "alt": "Sanctuary Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/sanctuary/04.png",
+      "alt": "Sanctuary Image 4"
+    }
+  ],
+  "grandJungle": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/01.jpg",
+      "alt": "Grand Jungle Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/02.jpg",
+      "alt": "Grand Jungle Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/03.jpg",
+      "alt": "Grand Jungle Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/04.jpg",
+      "alt": "Grand Jungle Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/05.jpg",
+      "alt": "Grand Jungle Image 5"
+    },
+    {
+      "id": 6,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/06.jpg",
+      "alt": "Grand Jungle Image 6"
+    },
+    {
+      "id": 7,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/07.jpg",
+      "alt": "Grand Jungle Image 7"
+    },
+    {
+      "id": 8,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/08.jpg",
+      "alt": "Grand Jungle Image 8"
+    },
+    {
+      "id": 9,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/grandjungle/09.jpg",
+      "alt": "Grand Jungle Image 9"
+    }
+  ],
+  "royal": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/01.jpg",
+      "alt": "Royal Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/02.jpg",
+      "alt": "Royal Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/03.jpg",
+      "alt": "Royal Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/04.jpg",
+      "alt": "Royal Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/05.jpg",
+      "alt": "Royal Image 5"
+    },
+    {
+      "id": 6,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/06.jpg",
+      "alt": "Royal Image 6"
+    },
+    {
+      "id": 7,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/07.jpg",
+      "alt": "Royal Image 7"
+    },
+    {
+      "id": 8,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/royal/08.jpg",
+      "alt": "Royal Image 8"
+    }
+  ],
+  "gardenView": [
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/garden/02.jpg",
+      "alt": "Royal Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/garden/03.jpg",
+      "alt": "Royal Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/garden/04.jpg",
+      "alt": "Royal Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/garden/05.jpg",
+      "alt": "Royal Image 5"
+    }
+  ],
+  "fishBowl": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/fishbowl/01.jpg",
+      "alt": "Fishbowl 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/fishbowl/02.jpg",
+      "alt": "Fishbowl 2"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/fishbowl/04.jpg",
+      "alt": "Fishbowl 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/fishbowl/05.jpg",
+      "alt": "Fishbowl 5"
+    },
+    {
+      "id": 6,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/fishbowl/06.jpg",
+      "alt": "Fishbowl 6"
+    }
+  ],
+  "skyLight": [
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/skylight/02.jpg",
+      "alt": "About Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/skylight/03.jpg",
+      "alt": "About Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/skylight/04.jpg",
+      "alt": "About Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/skylight/05.jpg",
+      "alt": "About Image 5"
+    }
+  ],
+  "poolView": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/poolview/01.jpg",
+      "alt": "About Image 1s"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/poolview/02.jpg",
+      "alt": "About Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/poolview/03.jpg",
+      "alt": "About Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/poolview/04.jpg",
+      "alt": "About Image 4"
+    }
+  ],
+  "bungalow": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/01.jpg",
+      "alt": "Royal Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/02.jpg",
+      "alt": "Royal Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/03.jpg",
+      "alt": "Royal Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/04.jpg",
+      "alt": "Royal Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/05.jpg",
+      "alt": "Royal Image 5"
+    },
+    {
+      "id": 6,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/06.jpg",
+      "alt": "Royal Image 6"
+    },
+    {
+      "id": 7,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/07.jpg",
+      "alt": "Royal Image 7"
+    },
+    {
+      "id": 8,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/08.jpg",
+      "alt": "Royal Image 8"
+    },
+    {
+      "id": 9,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/bungalow/09.jpg",
+      "alt": "Royal Image 9"
+    }
+  ],
+  "mural": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/01.jpg",
+      "alt": "Royal Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/02.jpg",
+      "alt": "Royal Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/03.jpg",
+      "alt": "Royal Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/04.jpg",
+      "alt": "Royal Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/05.jpg",
+      "alt": "Royal Image 5"
+    },
+    {
+      "id": 6,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/06.jpg",
+      "alt": "Royal Image 6"
+    },
+    {
+      "id": 7,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/07.jpg",
+      "alt": "Royal Image 7"
+    },
+    {
+      "id": 8,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/mural/08.jpg",
+      "alt": "Royal Image 8"
+    }
+  ],
+  "river": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/river/01.jpg",
+      "alt": "Royal Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/river/02.jpg",
+      "alt": "Royal Image 2"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/river/04.jpg",
+      "alt": "Royal Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/double/river/05.jpg",
+      "alt": "Royal Image 5"
+    }
+  ],
+  "baliHai": [
+    {
+      "id": 1,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/balihai/01.jpeg",
+      "alt": "Royal Image 1"
+    },
+    {
+      "id": 2,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/balihai/02.jpeg",
+      "alt": "Royal Image 2"
+    },
+    {
+      "id": 3,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/balihai/03.jpeg",
+      "alt": "Royal Image 3"
+    },
+    {
+      "id": 4,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/balihai/04.jpeg",
+      "alt": "Royal Image 4"
+    },
+    {
+      "id": 5,
+      "src": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/rooms/single/balihai/05.jpeg",
+      "alt": "Royal Image 5"
+    }
+  ]
+}

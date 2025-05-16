@@ -1,0 +1,65 @@
+{
+  "text": {
+    "price": "$2,500 / Person",
+    "title": "Bungalow Suite",
+    "subtitle": "Freestanding suspended glass bungalow with pyramid roof at base of pool",
+    "features": [
+      {
+        "name": "Jungle View.",
+        "description": "Breathtaking views of the surrounding jungle from your room.",
+        "icon": "EyeIcon"
+      },
+      {
+        "name": "Two Single Beds.",
+        "description": "Two single beds (90cm x 200cm) with organic bamboo linen and goose-down pillows.",
+        "icon": "Squares2X2Icon"
+      },
+      {
+        "name": "Convertible Couch Bed.",
+        "description": "Sofa converts into a comfortable single bed for extra sleeping space.",
+        "icon": "ArrowsPointingOutIcon"
+      },
+      {
+        "name": "Luxury Ensuite & Outdoor Bath.",
+        "description": "Indoor vanity sink and extra-large wardrobe, plus an outdoor toilet, shower, and bathtub surrounded by jungle plants.",
+        "icon": "HomeModernIcon"
+      },
+      {
+        "name": "Climate & Smart Comfort.",
+        "description": "Air conditioning, dehumidifier, Sonos speaker, charging station, and security box.",
+        "icon": "Cog6ToothIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/3cs4ip4mU4r97yEeVd",
+        "soldout": false,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/8wM02906E7DlbOUeVe",
+        "soldout": false,
+        "oneSpotLeft": false
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/3cs4ip4mU4r97yEeVd"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/8wM02906E7DlbOUeVe"
+      }
+    }
+  },
+  "imagesKey": "bungalow"
+}

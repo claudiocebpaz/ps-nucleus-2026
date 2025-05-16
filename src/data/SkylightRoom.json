@@ -1,0 +1,70 @@
+{
+  "text": {
+    "price": "$2,500 / Person",
+    "title": "Skylight Suite",
+    "subtitle": "Top Floor of Main House",
+    "features": [
+      {
+        "name": "Two Single Beds.",
+        "description": "Two single beds (90cm x 200cm) for a comfortable stay.",
+        "icon": "Squares2X2Icon"
+      },
+      {
+        "name": "Convertible Couch.",
+        "description": "Full-length gray sofa that can be converted into a single bed.",
+        "icon": "ArchiveBoxIcon"
+      },
+      {
+        "name": "Spacious Ensuite Bathroom.",
+        "description": "Large bathroom featuring a full-size bathtub under a skylight, vanity sink, and shower.",
+        "icon": "HomeModernIcon"
+      },
+      {
+        "name": "Smart Entertainment & Security.",
+        "description": "Includes a portable waterproof Sonos speaker, charging station with cables, and a security box.",
+        "icon": "SpeakerWaveIcon"
+      },
+      {
+        "name": "Storage & Climate Control.",
+        "description": "Freestanding wardrobe, dresser drawers, air conditioning, and a dehumidifier for maximum comfort.",
+        "icon": "CubeIcon"
+      },
+      {
+        "name": "Security Features.",
+        "description": "Equipped with a security box for personal belongings.",
+        "icon": "LockClosedIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/eVaeX3cTqe1JbOU3cr",
+        "soldout": false,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/00g5mt2eMe1J1agbIY",
+        "soldout": false,
+        "oneSpotLeft": true
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/eVaeX3cTqe1JbOU3cr"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/00g5mt2eMe1J1agbIY"
+      }
+    }
+  },
+  "imagesKey": "skyLight"
+}

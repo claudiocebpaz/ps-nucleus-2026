@@ -1,0 +1,65 @@
+{
+  "text": {
+    "price": "$2,500 / Person",
+    "title": "Pool Mural",
+    "subtitle": "Our largest bedroom with a mural of the jungle",
+    "features": [
+      {
+        "name": "Two Double Beds.",
+        "description": "Spacious bedroom with two double beds (140cm x 200cm) and mosquito netting.",
+        "icon": "Squares2X2Icon"
+      },
+      {
+        "name": "Luxury Bathroom Suite.",
+        "description": "Glowing onyx vanity and a separate shower for a premium experience.",
+        "icon": "HomeModernIcon"
+      },
+      {
+        "name": "Outdoor Bathtub Under Vines.",
+        "description": "Stunning private bathtub surrounded by lush vines and nature.",
+        "icon": "SparklesIcon"
+      },
+      {
+        "name": "Spacious Work Area.",
+        "description": "Long working desk with two chairs for a productive stay.",
+        "icon": "ComputerDesktopIcon"
+      },
+      {
+        "name": "Climate & Smart Comfort.",
+        "description": "Air conditioning, dehumidifier, Sonos speaker, charging station, and security box.",
+        "icon": "Cog6ToothIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/9AQ16d3iQ0aT2ek4gx",
+        "soldout": true,
+        "oneSpotLeft": true
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/28oaGN9He2j17yE4gy",
+        "soldout": true,
+        "oneSpotLeft": true
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/9AQ16d3iQ0aT2ek4gx"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/28oaGN9He2j17yE4gy"
+      }
+    }
+  },
+  "imagesKey": "mural"
+}

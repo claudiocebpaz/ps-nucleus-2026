@@ -1,0 +1,80 @@
+{
+  "text": {
+    "price": "$5,000",
+    "title": "FishBowl Suite",
+    "subtitle": "Suite with stunning pool and garden views",
+    "features": [
+      {
+        "name": "King-Size Comfort",
+        "description": "Spacious KING bed (180cm x 200cm) with stunning pool and garden views.",
+        "icon": "HomeIcon"
+      },
+      {
+        "name": "Luxurious Bath Retreat",
+        "description": "Exclusive suite with a glowing onyx vanity and a separate shower.",
+        "icon": "SparklesIcon"
+      },
+      {
+        "name": "Dedicated Workspace",
+        "description": "Long desk with a comfortable chair, ideal for productivity.",
+        "icon": "ComputerDesktopIcon"
+      },
+      {
+        "name": "Seamless Storage",
+        "description": "Built-in wardrobe for a sleek and organized living space.",
+        "icon": "BuildingStorefrontIcon"
+      },
+      {
+        "name": "Climate Comfort",
+        "description": "Air conditioning and dehumidifier to ensure the perfect atmosphere.",
+        "icon": "SunIcon"
+      },
+      {
+        "name": "Premium Tech Essentials",
+        "description": "Portable waterproof Sonos speaker, charging station, and security box.",
+        "icon": "DevicePhoneMobileIcon"
+      },
+      {
+        "name": "Serene Outdoor Bath",
+        "description": "Relaxing bathtub under the trees for a tranquil experience.",
+        "icon": "FireIcon"
+      },
+      {
+        "name": "Elegant Light Drapery",
+        "description": "Mosquito netting curtains for comfort and airflow (not blackout).",
+        "icon": "MusicalNoteIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/bIY029bPm6zh8CIfZ8",
+        "soldout": true,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/5kA6qx8Da3n5dX214f",
+        "soldout": false,
+        "oneSpotLeft": false
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/bIY029bPm6zh8CIfZ8"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/5kA6qx8Da3n5dX214f"
+      }
+    }
+  },
+  "imagesKey": "fishBowl"
+}

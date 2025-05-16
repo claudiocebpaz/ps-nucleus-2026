@@ -1,0 +1,65 @@
+{
+  "text": {
+    "price": "$7,500",
+    "title": "Grand Jungle",
+    "subtitle": "Three-room bedroom suite with two patios",
+    "features": [
+      {
+        "name": "King-Size Comfort.",
+        "description": "Spacious KING bed with direct pool and garden access.",
+        "icon": "HomeIcon"
+      },
+      {
+        "name": "Scenic Balcony & Outdoor Tub.",
+        "description": "Private terrace featuring a circular bathtub.",
+        "icon": "GlobeEuropeAfricaIcon"
+      },
+      {
+        "name": "Elegant Dressing Area.",
+        "description": "Walk-in wardrobe with seating.",
+        "icon": "ArrowRightEndOnRectangleIcon"
+      },
+      {
+        "name": "Luxurious Bath Retreat.",
+        "description": "Exclusive suite with an illuminated onyx vanity.",
+        "icon": "SparklesIcon"
+      },
+      {
+        "name": "Dedicated Workspace.",
+        "description": "Long desk with a comfortable chair.",
+        "icon": "ComputerDesktopIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/8wMeX32eM7Dl4ms9AG",
+        "soldout": true,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/4gw16d2eM6zhbOU007",
+        "soldout": true,
+        "oneSpotLeft": false
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/8wMeX32eM7Dl4ms9AG"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/4gw16d2eM6zhbOU007"
+      }
+    }
+  },
+  "imagesKey": "grandJungle"
+}

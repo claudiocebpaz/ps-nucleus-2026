@@ -1,0 +1,55 @@
+{
+  "text": {
+    "price": "$1,750",
+    "title": "Bali Hai (neighbor hotel 2-min walk)",
+    "subtitle": "Receives same benefits as Dwa Chandra",
+    "features": [
+      {
+        "name": "Authentic Balinese Village Life",
+        "description": "Experience true local living surrounded by lush gardens and nature.",
+        "icon": "HomeIcon"
+      },
+      {
+        "name": "Expansive Outdoor Common Area",
+        "description": "A bright and spacious outdoor space perfect for relaxation and gatherings.",
+        "icon": "SunIcon"
+      },
+      {
+        "name": "Daily Housekeeping Service",
+        "description": "Enjoy a clean and comfortable stay with our sweet housekeeper taking care of the details.",
+        "icon": "SparklesIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/dR60293iQ2j1g5a8wJ",
+        "soldout": true,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/3cs9CJdXu3n55qw14g",
+        "soldout": true,
+        "oneSpotLeft": false
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/dR60293iQ2j1g5a8wJ"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/3cs9CJdXu3n55qw14g"
+      }
+    }
+  },
+  "imagesKey": "baliHai"
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "date": "Day 1",
+    "title": "Day 1 - Friday",
+    "items": [
+      "Settle-in",
+      "Meet and Greet",
+      "Dinner",
+      "Intention Ceremony",
+      "Fireside Chat",
+      "Journaling"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/events_retreat.webp"
+  },
+  {
+    "date": "Day 2",
+    "title": "Day 2 - Saturday",
+    "items": [
+      "Yoga / Meditation",
+      "River Blessing",
+      "Brunch",
+      "Leadership Workshop",
+      "Meditation / Sound Healing",
+      "Special Breathwork",
+      "Fireside Chat",
+      "Journaling"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/day2.webp "
+  },
+  {
+    "date": "Day 3",
+    "title": "Day 3 - Sunday",
+    "items": [
+      "Yoga / Meditation",
+      "Special All Day Event",
+      "Rest",
+      "Dinner / Gratitude",
+      "Fireside Chat",
+      "Journaling"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/day3.webp"
+  },
+  {
+    "date": "Day 4",
+    "title": "Day 4 - Monday",
+    "items": [
+      "Yoga / Meditation",
+      "Brunch",
+      "Mandala Ceremony",
+      "Special Event",
+      "Special Dinner",
+      "Fireside Chat",
+      "Journaling"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/mandalaceremony.webp"
+  },
+  {
+    "date": "Day 5",
+    "title": "Day 5 - Tuesday",
+    "items": [
+      "Gorge Yoga/Med/Breath",
+      "Brunch",
+      "Leadership Workshop",
+      "Special Sound Healing Event",
+      "Rest",
+      "Dinner",
+      "Fireside Chat",
+      "Journaling"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/soundceremony.webp"
+  },
+  {
+    "date": "Day 6",
+    "title": "Day 6 - Wednesday",
+    "items": [
+      "Yoga / Meditation",
+      "Breath Work",
+      "Brunch",
+      "Pearl of the Heart Visit",
+      "Rest / Pool Party",
+      "Dinner",
+      "Fireside Chat",
+      "Journaling"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/firesidechat.webp"
+  },
+  {
+    "date": "Day 7",
+    "title": "Day 7 - Thursday",
+    "items": [
+      "Yoga / Meditation",
+      "Brunch",
+      "Special All Day Event",
+      "Dance Party"
+    ],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/danceparty.webp"
+  },
+  {
+    "date": "Day 8",
+    "title": "Day 8 - Friday",
+    "items": ["Yoga / Meditation", "Gratitude", "Closing Intentions"],
+    "image": "https://pub-858a9865baad48afa914044f2883a089.r2.dev/img/events/closingceremony.webp"
+  }
+]

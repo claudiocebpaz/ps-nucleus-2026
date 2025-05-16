@@ -1,0 +1,80 @@
+{
+  "text": {
+    "price": "$6,000",
+    "title": "Royal Suite",
+    "subtitle": "Top floor of main house",
+    "features": [
+      {
+        "name": "King Bed",
+        "description": "Spacious sleeping area (180cm x 200cm)",
+        "icon": "HomeIcon"
+      },
+      {
+        "name": "Private Balcony",
+        "description": "Expansive outdoor terrace offering unobstructed views and comfortable seating",
+        "icon": "PhotoIcon"
+      },
+      {
+        "name": "Antique Canopy Bed",
+        "description": "Carved, illuminated structure featuring ornate details and intricate mandala accents",
+        "icon": "SparklesIcon"
+      },
+      {
+        "name": "En-suite Bathroom",
+        "description": "Modern bath area featuring a vanity, dual storage units, a refreshing shower, and a separate toilet",
+        "icon": "UserIcon"
+      },
+      {
+        "name": "Outdoor Bathtub",
+        "description": "Freestanding tub located on a secondary terrace for serene relaxation",
+        "icon": "SparklesIcon"
+      },
+      {
+        "name": "Daybed & Office",
+        "description": "Versatile space offering a relaxed lounge and a formal desk setup with ergonomic seating",
+        "icon": "ComputerDesktopIcon"
+      },
+      {
+        "name": "Climate Control",
+        "description": "Air conditioning and dehumidifier system",
+        "icon": "HomeIcon"
+      },
+      {
+        "name": "Entertainment & Security",
+        "description": "Featuring Sonos speakers (built-in and portable), a charging hub with integrated cables, and a safe storage compartment",
+        "icon": "ComputerDesktopIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/cN2aGN4mU4r9cSYdQT",
+        "soldout": true,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/dR69CJcTq8Hp4ms9AF",
+        "soldout": true,
+        "oneSpotLeft": false
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/cN2aGN4mU4r9cSYdQT"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/dR69CJcTq8Hp4ms9AF"
+      }
+    }
+  },
+  "imagesKey": "royal"
+}

@@ -1,0 +1,65 @@
+{
+  "text": {
+    "price": "$2,500 / Person",
+    "title": "Pool View Suite",
+    "subtitle": "Top Floor of Main House",
+    "features": [
+      {
+        "name": "Two Single Beds.",
+        "description": "Two single beds (90cm x 200cm) for a comfortable stay.",
+        "icon": "Squares2X2Icon"
+      },
+      {
+        "name": "Convertible Couch Bed.",
+        "description": "Built-in window sofa nook converts into a single bed for extra sleeping space.",
+        "icon": "ArrowsPointingOutIcon"
+      },
+      {
+        "name": "Ensuite Bathroom with a View.",
+        "description": "Full-size bathtub overlooking the pool, shower, and vanity sink for a relaxing experience.",
+        "icon": "HomeModernIcon"
+      },
+      {
+        "name": "Workspace & Storage.",
+        "description": "Office desk with chair, built-in wardrobes for a productive and organized stay.",
+        "icon": "ComputerDesktopIcon"
+      },
+      {
+        "name": "Climate Control & Comfort.",
+        "description": "Equipped with air conditioning and a dehumidifier for an optimal stay.",
+        "icon": "Cog6ToothIcon"
+      }
+    ]
+  },
+  "selectors": {
+    "cohorts": [
+      {
+        "id": 1,
+        "title": "Cohort 1",
+        "description": "May 16th - 23rd",
+        "URL": "https://buy.stripe.com/9AQ16d3iQ0aT2ek4gx",
+        "soldout": false,
+        "oneSpotLeft": false
+      },
+      {
+        "id": 2,
+        "title": "Cohort 2",
+        "description": "May 23rd - 30th",
+        "URL": "https://buy.stripe.com/28oaGN9He2j17yE4gy",
+        "soldout": false,
+        "oneSpotLeft": true
+      }
+    ],
+    "bookingOptions": {
+      "1": {
+        "label": "Book Cohort 1 Suite",
+        "link": "https://buy.stripe.com/9AQ16d3iQ0aT2ek4gx"
+      },
+      "2": {
+        "label": "Book Cohort 2 Suite",
+        "link": "https://buy.stripe.com/28oaGN9He2j17yE4gy"
+      }
+    }
+  },
+  "imagesKey": "poolView"
+}
