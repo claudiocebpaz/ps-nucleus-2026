@@ -46,28 +46,28 @@ export default function RoomsOverview() {
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   Sold Out Second Cohort
                 </span> */}
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
-                </span>
+                </span> */}
               </li>
               <li>
                 🏡 Royal Suite - $6,000{" "}
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
-                </span>
+                </span> */}
               </li>
               <li>🏡 Gardenview Suite - $6,000</li>
               <li>
                 🏡 Fishbowl Suite - $5,000
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   Sold Out First Cohort
-                </span>
+                </span> */}
               </li>
               <li>
                 🏡 Bali Hai - $1,750
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
-                </span>
+                </span> */}
               </li>
             </ul>
 
@@ -99,29 +99,29 @@ export default function RoomsOverview() {
             <ul className="mt-4 space-y-2 text-gray-400">
               <li>
                 🌿 River Suite - $3,000/person
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   Selling Fast !
-                </span>
+                </span> */}
               </li>
               <li>
                 🌿 Skylight Suite - $2,500 / Person
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   One spot Left
-                </span>
+                </span> */}
               </li>
               <li>
                 🌿 Poolview Suite - $2,500 / Person
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   One spot Left
-                </span>
+                </span> */}
               </li>
 
               <li>🌿 Bungalow Suite - $2,500 / Person</li>
               <li>
                 🌿 Pool Mural Suite - $2,500 / Person
-                <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
+                {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
-                </span>
+                </span> */}
               </li>
             </ul>
 

@@ -46,17 +46,19 @@ const SelectorSection: React.FC<SelectorSectionProps> = ({
         <RadioGroup
           value={selectedCohort}
           onChange={setSelectedCohort}
-          className="grid grid-cols-2 gap-6"
+          className="flex flex-col gap-4 w-full"
         >
-          {cohorts.map((cohort) => (
+          {cohorts.map((cohort, index) => (
             <RadioGroup.Option
               key={cohort.id}
               value={cohort}
               disabled={cohort.soldout}
               className={({ checked }) =>
-                `h-16 relative flex w-full cursor-pointer rounded-lg border border-gray-300 bg-white p-3 shadow-xs focus:outline-none ${
+                `w-full h-20 relative flex items-center cursor-pointer rounded-lg border border-gray-300 bg-white px-4 py-3 shadow-xs focus:outline-none ${
                   checked ? "border-gray-700 ring-2 ring-gray-700" : ""
-                } ${cohort.soldout ? "opacity-50 cursor-not-allowed" : ""}`
+                } ${cohort.soldout ? "opacity-50 cursor-not-allowed" : ""} ${
+                  index === 1 ? "hidden" : ""
+                }`
               }
             >
               {({ checked }) => (

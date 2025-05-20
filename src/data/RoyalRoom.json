@@ -51,9 +51,9 @@
       {
         "id": 1,
         "title": "Cohort 1",
-        "description": "May 16th - 23rd",
+        "description": "July 31st - August 7th",
         "URL": "https://buy.stripe.com/cN2aGN4mU4r9cSYdQT",
-        "soldout": true,
+        "soldout": false,
         "oneSpotLeft": false
       },
       {
@@ -61,7 +61,7 @@
         "title": "Cohort 2",
         "description": "May 23rd - 30th",
         "URL": "https://buy.stripe.com/dR69CJcTq8Hp4ms9AF",
-        "soldout": true,
+        "soldout": false,
         "oneSpotLeft": false
       }
     ],
