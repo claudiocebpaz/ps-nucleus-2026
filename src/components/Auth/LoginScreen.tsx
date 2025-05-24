@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useAuth } from "../../context/AuthContext";
+import { ACCESS_CODE } from "../../constants/auth";
 
 export const LoginScreen = () => {
   const { login } = useAuth();
@@ -10,7 +11,7 @@ export const LoginScreen = () => {
     e.preventDefault();
     setError("");
     login(code);
-    if (code !== "nucleus2024") {
+    if (code !== ACCESS_CODE) {
       setError("Invalid access code");
     }
   };
