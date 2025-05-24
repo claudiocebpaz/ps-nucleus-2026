@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$2,500 / Person",
+    "price": "$3,750 / Person",
     "title": "Bungalow Suite",
     "subtitle": "Freestanding suspended glass bungalow with pyramid roof at base of pool",
     "features": [
@@ -37,15 +37,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/3cs4ip4mU4r97yEeVd",
+        "URL": "https://buy.stripe.com/4gM6oH22G8Er3lsgoedIA0P",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/8wM02906E7DlbOUeVe",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/bJe9ATfTw2g309g5JAdIA0Q",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -53,11 +53,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/3cs4ip4mU4r97yEeVd"
+        "link": "https://buy.stripe.com/4gM6oH22G8Er3lsgoedIA0P"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/8wM02906E7DlbOUeVe"
+        "link": "https://buy.stripe.com/bJe9ATfTw2g309g5JAdIA0Q"
       }
     }
   },

@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$1,750",
+    "price": "$3,000",
     "title": "Bali Hai (neighbor hotel 2-min walk)",
     "subtitle": "Receives same benefits as Dwa Chandra",
     "features": [
@@ -34,7 +34,7 @@
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
+        "description": "August 7th - August 14th",
         "URL": "https://buy.stripe.com/3cs9CJdXu3n55qw14g",
         "soldout": false,
         "oneSpotLeft": false

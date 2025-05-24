@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$3,000 / Person",
+    "price": "$3,750 / Person",
     "title": "River Suite",
     "subtitle": "Hear the sounds of the river at night",
     "features": [
@@ -52,15 +52,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/4gw7uBaLibTB06cbIW",
+        "URL": "https://buy.stripe.com/00wdR9bDg7AnaNUc7YdIA0J",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/6oEbKRg5CcXF8CI5ko",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/00w5kD0YCg6Te065JAdIA0K",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -68,11 +68,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/4gw7uBaLibTB06cbIW"
+        "link": "https://buy.stripe.com/00wdR9bDg7AnaNUc7YdIA0J"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/6oEbKRg5CcXF8CI5ko"
+        "link": "https://buy.stripe.com/00w5kD0YCg6Te065JAdIA0K"
       }
     }
   },

@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$6,000",
+    "price": "$7,500",
     "title": "GardenView",
     "subtitle": "Suite with pool views and garden views",
     "features": [
@@ -52,15 +52,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/aEU8yFf1y7Dl4ms14c",
+        "URL": "https://buy.stripe.com/9B628rfTw5sf8FMgoedIA0D",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/5kA8yFf1y4r9cSY28h",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/3cI6oH36K07VaNUdc2dIA0E",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -68,11 +68,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/aEU8yFf1y7Dl4ms14c"
+        "link": "https://buy.stripe.com/9B628rfTw5sf8FMgoedIA0D"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/5kA8yFf1y4r9cSY28h"
+        "link": "https://buy.stripe.com/3cI6oH36K07VaNUdc2dIA0E"
       }
     }
   },
