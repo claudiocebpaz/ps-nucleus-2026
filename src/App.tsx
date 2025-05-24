@@ -1,21 +1,13 @@
 // src/App.tsx
 import "./App.css";
-import { BrowserRouter } from "react-router-dom";
-import AppRoutes from "./routes";
-import Navbar from "./components/shared/NavBar";
-import Footer from "./components/shared/Footer";
+import { AuthProvider } from "./context/AuthContext";
+import { AuthWrapper } from "./components/Auth/AuthWrapper";
 
 function App() {
   return (
-    <BrowserRouter>
-      <div className="min-h-screen flex flex-col">
-        <Navbar />
-        <main className="flex-grow">
-          <AppRoutes />
-        </main>
-        <Footer />
-      </div>
-    </BrowserRouter>
+    <AuthProvider>
+      <AuthWrapper />
+    </AuthProvider>
   );
 }
 export default App;
