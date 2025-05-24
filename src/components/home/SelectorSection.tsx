@@ -48,7 +48,7 @@ const SelectorSection: React.FC<SelectorSectionProps> = ({
           onChange={setSelectedCohort}
           className="flex flex-col md:flex-row gap-4 w-full"
         >
-          {cohorts.map((cohort, index) => (
+          {cohorts.map((cohort) => (
             <RadioGroup.Option
               key={cohort.id}
               value={cohort}
