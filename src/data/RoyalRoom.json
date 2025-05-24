@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$6,000",
+    "price": "$10,000",
     "title": "Royal Suite",
     "subtitle": "Top floor of main house",
     "features": [
@@ -52,15 +52,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/cN2aGN4mU4r9cSYdQT",
+        "URL": "https://buy.stripe.com/00w5kD9v807V7BIeg6dIA0x",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/dR69CJcTq8Hp4ms9AF",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/00waEX8r49IvaNU4FwdIA0y",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -68,11 +68,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/cN2aGN4mU4r9cSYdQT"
+        "link": "https://buy.stripe.com/00w5kD9v807V7BIeg6dIA0x"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/dR69CJcTq8Hp4ms9AF"
+        "link": "https://buy.stripe.com/00waEX8r49IvaNU4FwdIA0y"
       }
     }
   },

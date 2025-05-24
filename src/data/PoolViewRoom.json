@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$2,500 / Person",
+    "price": "$3,750 / Person",
     "title": "Pool View Suite",
     "subtitle": "Top Floor of Main House",
     "features": [
@@ -37,27 +37,27 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "May 16th - 23rd",
-        "URL": "https://buy.stripe.com/9AQ16d3iQ0aT2ek4gx",
+        "URL": "https://buy.stripe.com/bJe4gzePsf2P4pw2xodIA0N",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/28oaGN9He2j17yE4gy",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/3cI14n5eS07V4pwc7YdIA0O",
         "soldout": false,
-        "oneSpotLeft": true
+        "oneSpotLeft": false
       }
     ],
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/9AQ16d3iQ0aT2ek4gx"
+        "link": "https://buy.stripe.com/bJe4gzePsf2P4pw2xodIA0N"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/28oaGN9He2j17yE4gy"
+        "link": "https://buy.stripe.com/3cI14n5eS07V4pwc7YdIA0O"
       }
     }
   },

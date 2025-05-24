@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$7,500",
+    "price": "$10,000",
     "title": "Grand Jungle",
     "subtitle": "Three-room bedroom suite with two patios",
     "features": [
@@ -37,15 +37,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/8wMeX32eM7Dl4ms9AG",
+        "URL": "https://buy.stripe.com/14A28rgXAf2P9JQ2xodIA0z",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/4gw16d2eM6zhbOU007",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/dRm28r5eSf2PbRYeg6dIA0A",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -53,11 +53,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/8wMeX32eM7Dl4ms9AG"
+        "link": "https://buy.stripe.com/14A28rgXAf2P9JQ2xodIA0z"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/4gw16d2eM6zhbOU007"
+        "link": "https://buy.stripe.com/dRm28r5eSf2PbRYeg6dIA0A"
       }
     }
   },

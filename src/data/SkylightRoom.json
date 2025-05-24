@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$2,500 / Person",
+    "price": "$3,750 / Person",
     "title": "Skylight Suite",
     "subtitle": "Top Floor of Main House",
     "features": [
@@ -42,15 +42,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/eVaeX3cTqe1JbOU3cr",
+        "URL": "https://buy.stripe.com/14AbJ18r4f2PcW28VMdIA0L",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/00g5mt2eMe1J1agbIY",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/28EcN5gXAg6T8FMc7YdIA0M",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -58,11 +58,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/eVaeX3cTqe1JbOU3cr"
+        "link": "https://buy.stripe.com/14AbJ18r4f2PcW28VMdIA0L"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/00g5mt2eMe1J1agbIY"
+        "link": "https://buy.stripe.com/28EcN5gXAg6T8FMc7YdIA0M"
       }
     }
   },

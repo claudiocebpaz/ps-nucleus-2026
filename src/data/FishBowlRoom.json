@@ -1,6 +1,6 @@
 {
   "text": {
-    "price": "$5,000",
+    "price": "$7,500",
     "title": "FishBowl Suite",
     "subtitle": "Suite with stunning pool and garden views",
     "features": [
@@ -52,15 +52,15 @@
         "id": 1,
         "title": "Cohort 1",
         "description": "July 31st - August 7th",
-        "URL": "https://buy.stripe.com/bIY029bPm6zh8CIfZ8",
+        "URL": "https://buy.stripe.com/7sYbJ10YCcUHaNU3BsdIA0H",
         "soldout": false,
         "oneSpotLeft": false
       },
       {
         "id": 2,
         "title": "Cohort 2",
-        "description": "May 23rd - 30th",
-        "URL": "https://buy.stripe.com/5kA6qx8Da3n5dX214f",
+        "description": "August 7th - August 14th",
+        "URL": "https://buy.stripe.com/7sYaEX0YCdYL6xEb3UdIA0I",
         "soldout": false,
         "oneSpotLeft": false
       }
@@ -68,11 +68,11 @@
     "bookingOptions": {
       "1": {
         "label": "Book Cohort 1 Suite",
-        "link": "https://buy.stripe.com/bIY029bPm6zh8CIfZ8"
+        "link": "https://buy.stripe.com/7sYbJ10YCcUHaNU3BsdIA0H"
       },
       "2": {
         "label": "Book Cohort 2 Suite",
-        "link": "https://buy.stripe.com/5kA6qx8Da3n5dX214f"
+        "link": "https://buy.stripe.com/7sYaEX0YCdYL6xEb3UdIA0I"
       }
     }
   },
