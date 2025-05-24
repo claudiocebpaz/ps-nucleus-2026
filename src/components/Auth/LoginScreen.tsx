@@ -11,7 +11,7 @@ export const LoginScreen = () => {
     e.preventDefault();
     setError("");
     login(code);
-    if (code !== ACCESS_CODE) {
+    if (code.toLowerCase() !== ACCESS_CODE.toLowerCase()) {
       setError("Invalid access code");
     }
   };
