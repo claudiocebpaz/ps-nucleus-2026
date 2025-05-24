@@ -11,11 +11,11 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const [isAuthed, setIsAuthed] = useState(() => {
     const savedCode = localStorage.getItem(STORAGE_KEY);
-    return savedCode === ACCESS_CODE;
+    return savedCode?.toLowerCase() === ACCESS_CODE.toLowerCase();
   });
 
   const login = (code: string) => {
-    if (code === ACCESS_CODE) {
+    if (code.toLowerCase() === ACCESS_CODE.toLowerCase()) {
       localStorage.setItem(STORAGE_KEY, code);
       setIsAuthed(true);
     }
