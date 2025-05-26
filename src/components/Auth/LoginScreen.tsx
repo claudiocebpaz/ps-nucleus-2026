@@ -26,9 +26,8 @@ export const LoginScreen = () => {
             className="mx-auto h-56 w-auto mb-6"
           />
           <h2 className="text-3xl font-serif font-bold text-white">
-            Nucleus 2026 Access
+            Nucleus - Bali 2026
           </h2>
-          <p className="mt-2 text-sm text-white">Enter your access code</p>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
           <div className="rounded-md shadow-sm space-y-4">
