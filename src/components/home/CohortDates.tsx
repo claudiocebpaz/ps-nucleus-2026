@@ -41,13 +41,13 @@ export default function CohortDates() {
           <div className="block md:hidden">
             <div className="text-center">
               <h2 className="font-cinzel text-xl font-semibold tracking-tight text-gray-950 whitespace-nowrap">
-                Cohort 1: July 31st - August 7th
+                Cohort 1: July 25th - July 25th
               </h2>
             </div>
             <div className="w-full h-px bg-black my-4"></div>
             <div className="text-center">
               <h2 className="font-cinzel text-xl font-semibold tracking-tight text-gray-950 whitespace-nowrap">
-                Cohort 2: August 7th - August 14th
+                Cohort 2: August 3rd - August 10th
               </h2>
             </div>
           </div>
@@ -57,8 +57,7 @@ export default function CohortDates() {
             {/* Izquierda: Cohort 1, alineado a la derecha */}
             <div className="pr-4 text-right">
               <h2 className="font-cinzel text-2xl font-semibold tracking-tight text-gray-950 whitespace-nowrap">
-                <span className="text-lg">Cohort 1:</span> July 31st - August
-                7th
+                <span className="text-lg">Cohort 1:</span> July 25th - July 31st
               </h2>
             </div>
             {/* Separador vertical */}
@@ -66,8 +65,8 @@ export default function CohortDates() {
             {/* Derecha: Cohort 2, alineado a la izquierda */}
             <div className="pl-4 text-left">
               <h2 className="font-cinzel text-2xl font-semibold tracking-tight text-gray-950 whitespace-nowrap">
-                <span className="text-lg">Cohort 2:</span> May August 7th -
-                August 14th
+                <span className="text-lg">Cohort 2:</span> August 3rd - August
+                10th
               </h2>
             </div>
           </div>

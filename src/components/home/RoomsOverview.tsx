@@ -42,7 +42,7 @@ export default function RoomsOverview() {
             </p>
             <ul className="mt-4 space-y-2 text-gray-400">
               <li>
-                🏡 Grand Jungle Suite - $7,500{" "}
+                🏡 Grand Jungle Suite - $10,000{" "}
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   Sold Out Second Cohort
                 </span> */}
@@ -51,20 +51,20 @@ export default function RoomsOverview() {
                 </span> */}
               </li>
               <li>
-                🏡 Royal Suite - $6,000{" "}
+                🏡 Royal Suite - $10,000{" "}
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
                 </span> */}
               </li>
-              <li>🏡 Gardenview Suite - $6,000</li>
+              <li>🏡 Gardenview Suite - $7,500</li>
               <li>
-                🏡 Fishbowl Suite - $5,000
+                🏡 Fishbowl Suite - $7,500
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   Sold Out First Cohort
                 </span> */}
               </li>
               <li>
-                🏡 Bali Hai - $1,750
+                🏡 Bali Hai - $3,000
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
                 </span> */}
@@ -98,27 +98,27 @@ export default function RoomsOverview() {
             </p>
             <ul className="mt-4 space-y-2 text-gray-400">
               <li>
-                🌿 River Suite - $3,000/person
+                🌿 River Suite - $3,750/person
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   Selling Fast !
                 </span> */}
               </li>
               <li>
-                🌿 Skylight Suite - $2,500 / Person
+                🌿 Skylight Suite - $3,700 / Person
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   One spot Left
                 </span> */}
               </li>
               <li>
-                🌿 Poolview Suite - $2,500 / Person
+                🌿 Poolview Suite - $3,750 / Person
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-yellow-300 border border-yellow-300 rounded">
                   One spot Left
                 </span> */}
               </li>
 
-              <li>🌿 Bungalow Suite - $2,500 / Person</li>
+              <li>🌿 Bungalow Suite - $3,750 / Person</li>
               <li>
-                🌿 Pool Mural Suite - $2,500 / Person
+                🌿 Pool Mural Suite - $3,750 / Person
                 {/* <span className="ml-2 px-1.5 py-0.5 text-xs font-medium text-red-500 border border-red-500 rounded">
                   Sold Out
                 </span> */}
